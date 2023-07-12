@@ -1,0 +1,23 @@
+2023-07-13 01:43:39,438 - com.nopCommerce.testCases.baseClass -INFO - URL is entered
+2023-07-13 01:44:13,186 - com.nopCommerce.testCases.baseClass -INFO - URL is entered
+2023-07-13 01:44:16,318 - com.nopCommerce.testCases.baseClass -INFO - Registration is completed
+2023-07-13 01:44:17,843 - com.nopCommerce.testCases.baseClass -INFO - Username and password is provided
+2023-07-13 01:44:24,285 - com.nopCommerce.testCases.baseClass -INFO - Order Details are added to the Cart
+2023-07-13 01:44:25,769 - com.nopCommerce.testCases.baseClass -INFO - Order is confirmed
+2023-07-13 01:48:02,129 - com.nopCommerce.testCases.baseClass -INFO - URL is entered
+2023-07-13 01:52:07,985 - com.nopCommerce.testCases.baseClass -INFO - URL is entered
+2023-07-13 01:53:13,187 - com.nopCommerce.testCases.baseClass -INFO - URL is entered
+2023-07-13 01:59:57,002 - com.nopCommerce.testCases.baseClass -INFO - URL is entered
+2023-07-13 02:03:56,849 - com.nopCommerce.testCases.baseClass -INFO - URL is entered
+2023-07-13 02:03:59,953 - com.nopCommerce.testCases.baseClass -INFO - Registration is completed
+2023-07-13 02:04:01,538 - com.nopCommerce.testCases.baseClass -INFO - Username and password is provided
+2023-07-13 02:04:08,200 - com.nopCommerce.testCases.baseClass -INFO - Order Details are added to the Cart
+2023-07-13 02:04:09,716 - com.nopCommerce.testCases.baseClass -INFO - Order is confirmed
+2023-07-13 02:09:28,632 - com.nopCommerce.testCases.baseClass -INFO - URL is entered
+2023-07-13 02:09:31,742 - com.nopCommerce.testCases.baseClass -INFO - Registration is completed
+2023-07-13 02:09:33,337 - com.nopCommerce.testCases.baseClass -INFO - Username and password is provided
+2023-07-13 02:10:33,502 - com.nopCommerce.testCases.baseClass -INFO - URL is entered
+2023-07-13 02:10:36,547 - com.nopCommerce.testCases.baseClass -INFO - Registration is completed
+2023-07-13 02:10:38,224 - com.nopCommerce.testCases.baseClass -INFO - Username and password is provided
+2023-07-13 02:10:45,095 - com.nopCommerce.testCases.baseClass -INFO - Order Details are added to the Cart
+2023-07-13 02:10:46,747 - com.nopCommerce.testCases.baseClass -INFO - Order is confirmed
